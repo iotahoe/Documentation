@@ -4,9 +4,9 @@ layout: default
 
 # Docs
 This branch contains the HTML pages which are published using 
-[GitHub Pages](https://pages.github.com) to [https://iotahoe.github.io/repository](https://iotahoe.github.io/repository).
+[GitHub Pages](https://pages.github.com) to [https://iotahoe.github.io/Documentation](https://iotahoe.github.io/Documentation).
 
-The current theme is [Slate](https://github.com/pages-themes/slate) until a custom one suitable for Io-Tahoe is developed
+The current theme is [Slate](https://github.com/pages-themes/slate) until a custom one suitable for Io-Tahoe is developed.
 
 ---
 
